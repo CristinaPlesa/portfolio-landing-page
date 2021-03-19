@@ -7,7 +7,7 @@ img {
 }
 
 .main-list {
-  float: left;
+  float: right;
 }
 
 .sub-list {
@@ -19,8 +19,9 @@ img {
 }
 
 .daily-ritual {
-  width: 25%;
-  float: center;
+  width: 35%;
+  float: left;
+  margin: 10px;
 }
 
 .cats {
