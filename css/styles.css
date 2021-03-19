@@ -9,3 +9,7 @@ img {
 .sub {
   list-style-type: circle;
 }
+
+.highlight {
+  color: rgb(7, 132, 182);
+}
