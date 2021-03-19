@@ -6,7 +6,11 @@ img {
   list-style-type: "-";
 }
 
-.sublist {
+.main-list {
+  float: center;
+
+}
+.sub-list {
   list-style-type: circle;
 }
 
@@ -30,4 +34,8 @@ img {
 
 body {
   margin: 50px;
+}
+
+.about-section {
+  font-family: sans-serif;
 }
