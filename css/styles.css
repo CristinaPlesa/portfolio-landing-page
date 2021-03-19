@@ -1,12 +1,12 @@
 img {
-  width: 50%;
+  width: 30%;
 }
 
-.sidenote {
+.note {
   list-style-type: "-";
 }
 
-.sub {
+.sublist {
   list-style-type: circle;
 }
 
@@ -15,9 +15,15 @@ img {
 }
 
 .daily-ritual {
-  float: right;
+  width: 25%;
+  float: center;
 }
 
-img {
+.cats {
   float: left;
+  width: 25%;
+  margin: 10px;
+  border: 6px solid rgb(78, 139, 78);
+  padding: 10px;
+  background-color: rgb(202, 202, 202);
 }
