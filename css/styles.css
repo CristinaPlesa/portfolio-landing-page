@@ -7,9 +7,9 @@ img {
 }
 
 .main-list {
-  float: center;
-
+  float: left;
 }
+
 .sub-list {
   list-style-type: circle;
 }
@@ -38,4 +38,11 @@ body {
 
 .about-section {
   font-family: sans-serif;
+  border: 10px solid rgb(44, 44, 44);
+  padding: 10px;
+  background-color: rgb(201, 172, 153)
+}
+
+.projects {
+  float: right;
 }
