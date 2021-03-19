@@ -27,3 +27,7 @@ img {
   padding: 10px;
   background-color: rgb(202, 202, 202);
 }
+
+body {
+  margin: 50px;
+}
