@@ -13,3 +13,11 @@ img {
 .highlight {
   color: rgb(7, 132, 182);
 }
+
+.daily-ritual {
+  float: right;
+}
+
+img {
+  float: left;
+}
