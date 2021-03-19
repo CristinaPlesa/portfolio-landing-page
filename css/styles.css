@@ -2,6 +2,10 @@ img {
   width: 50%;
 }
 
-ul.b {
+.sidenote {
+  list-style-type: "-";
+}
+
+.sub {
   list-style-type: circle;
 }
