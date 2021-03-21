@@ -1,5 +1,5 @@
 img {
-  width: 30%;
+  width: 20%;
 }
 
 .note {
@@ -7,7 +7,7 @@ img {
 }
 
 .main-list {
-  float: right;
+  float: left;
 }
 
 .sub-list {
@@ -19,18 +19,22 @@ img {
 }
 
 .daily-ritual {
-  width: 35%;
+  width: 30%;
   float: left;
   margin: 10px;
 }
 
+.cat {
+  float: left;
+  width: 20%;
+  margin: 5px;
+  border: 4px solid rgb(78, 139, 78);
+  padding: 5px;
+  background-color: rgb(202, 202, 202);
+}
+
 .cats {
   float: left;
-  width: 25%;
-  margin: 10px;
-  border: 6px solid rgb(78, 139, 78);
-  padding: 10px;
-  background-color: rgb(202, 202, 202);
 }
 
 body {
