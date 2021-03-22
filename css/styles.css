@@ -7,6 +7,7 @@ img {
 }
 
 .main-list {
+  font-family: 'Courier New', Courier, monospace;
   float: left;
 }
 
@@ -21,21 +22,21 @@ img {
 .daily-ritual {
   width: 35%;
   float: left;
-  margin: 5px;
-  border: 7px solid rgb(17, 16, 16);
+  margin-right: 20px;
+  border: 5px solid rgb(17, 16, 16);
   padding: 4px;
 }
 
 .cat {
   float: left;
   width: 20%;
-  margin: 5px;
-  border: 5px solid rgb(226, 247, 226);
-  padding: 3px;
-  background-color: rgb(202, 202, 202);
+  margin-right: 10px;
+  border: 8px solid rgb(160, 160, 160);
 }
 
 .cats {
+  font-family: American Typewriter, serif;
+  font-size: 18px;
   float: left;
 }
 
@@ -46,7 +47,9 @@ body {
 
 .about-me {
   font-family: sans-serif;
-  border: 10px solid rgb(44, 44, 44);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 4px solid rgb(44, 44, 44);
   padding: 10px;
   background-color: rgb(201, 172, 153)
 }
