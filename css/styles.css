@@ -21,8 +21,8 @@ img {
 .daily-ritual {
   width: 35%;
   float: left;
-  margin: 10px;
-  border: 7px rgb(17, 16, 16);
+  margin: 5px;
+  border: 7px solid rgb(17, 16, 16);
   padding: 4px;
 }
 
@@ -41,6 +41,7 @@ img {
 
 body {
   margin: 50px;
+  background-color: rgb(219, 182, 189);
 }
 
 .about-me {
@@ -51,5 +52,5 @@ body {
 }
 
 .projects {
-  float: right;
+  float: center;
 }
