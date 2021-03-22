@@ -19,6 +19,8 @@ A porfolio webpage that includes a list of Github projects and information about
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
 
+* To view online go to: https://cristinaplesa.github.io/portfolio-landing-page/
+
 ## License
 
 MIT
