@@ -19,10 +19,6 @@ A porfolio webpage that includes a list of Github projects and information about
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
 
-## Known Bugs
-
-* 
-
 ## License
 
 MIT
